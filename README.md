@@ -41,7 +41,7 @@ Avaliar a eficiência operacional de ordens de serviço (OS) em diferentes espec
 
 Visualize no link abaixo:
 
-(Clique aqui)[https://app.powerbi.com/view?r=eyJrIjoiODIzMzVkNzYtMWI2OS00MjQwLWI4MzItYzRlNjE3MWJjYjY1IiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9]
+[Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiODIzMzVkNzYtMWI2OS00MjQwLWI4MzItYzRlNjE3MWJjYjY1IiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9)
 
 ---
 
