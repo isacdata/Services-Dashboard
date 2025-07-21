@@ -1,4 +1,4 @@
-# 📊 Dashboard de Serviços – Power BI + DAX
+# 📊 Dashboard de Serviços – SQL + Power BI
 
 Este projeto analisa ordens de serviço executadas entre 2021 e 2023, com foco em tempo de conclusão, custo total e distribuição por tipo de serviço e especialização técnica, utilizando Power BI e modelagem analítica com DAX.
 
