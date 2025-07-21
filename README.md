@@ -48,5 +48,5 @@ Visualize no link abaixo:
 ## 👤 Autor
 
 Desenvolvido por **Isac Vieira**, com foco em análise operacional de serviços, indicadores de desempenho e visualização interativa com Power BI.  
-Contato: isac.vieira@bsci.com
+Contato: isacnascimento1@outlook.com
 
